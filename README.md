@@ -1,1 +1,1 @@
-# sql_projects
+repository to demonstrate sql competency
