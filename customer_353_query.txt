@@ -1,1 +1,3 @@
-SELECTÊ*ÊFROMÊCustomersWHEREÊCustomerID=353;
+SELECT * FROM Customers
+WHERE CustomerID=353;
+
