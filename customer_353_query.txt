@@ -1,0 +1,1 @@
+SELECTÊ*ÊFROMÊCustomersWHEREÊCustomerID=353;
